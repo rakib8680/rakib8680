@@ -1,11 +1,11 @@
 ![Header](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
-<h1 align="center">Hi 👋, I'm Rakib Khan</h1>
+<h1 align="center">Hey, I'm Rakib Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib8680&label=Profile%20views&color=0e75b6&style=flat" alt="rakib8680" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib8680" alt="rakib8680" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rakib8680" target="blank"><img src="https://img.shields.io/twitter/follow/rakib8680?logo=twitter&style=for-the-badge" alt="rakib8680" /></a> </p>
 
