@@ -86,12 +86,29 @@
 </div>
 <br>
 <br>
+<div class="stats" align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib8680&show_icons=true&locale=en&layout=compact" alt="rakib8680" /></p>
+![Rakib Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib8680&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib8680&show_icons=true&locale=en" alt="rakib8680" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=rakib8680&count_private=true&theme=algolia&border_radius=20)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib8680&" alt="rakib8680" /></p>
-
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
+    
+<!-- compact programming languages layout -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib8680&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
 
 ![snake gif](https://github.com/rakib8680/rakib8680/blob/output/github-contribution-grid-snake.gif)
+ 
+ <!-- Begin Footer -->
+ ---
+<!-- Icons Resources -->
+<!-- https://devicon.dev/ -->
+<div class="footer" align="center" style="margin:15px;">
+    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w" target="_blank">
+        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
+    </a>
+    <a href="mailto:gym4programming@gmail.com" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
+</div>
