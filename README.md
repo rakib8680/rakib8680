@@ -86,6 +86,7 @@
 </div>
 <br>
 <br>
+
 <div class="stats" align="center">
 
 ![Rakib Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib8680&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
@@ -98,7 +99,8 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib8680&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 
-![snake gif](https://github.com/rakib8680/rakib8680/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/rakib8680/rakib8680/blob/output/github-contribution-grid-snake.gif) -->
+<img align="center" alt="snake eating my contribution" src="https://github.com/rakib8680/rakib8680/blob/output/github-contribution-grid-snake.svg">
  
  <!-- Begin Footer -->
  ---
