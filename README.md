@@ -1,11 +1,10 @@
 ![Header](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
 <h1 align="center">Hey, I'm Rakib Khan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
 <p  align="center" ><a href="https://app.daily.dev/rakib8680"><img src="https://api.daily.dev/devcards/2fafff1a4d37487696e7dd609dcdc195.png?r=t1s" width="250" alt="Abdullah Al Rakib's Dev Card"/></a></p>
-
-
-
+<!--   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=gotham&preferLogin=false">    <img  alt="rakib8680's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rakib8680?cardType=level&theme=gotham&preferLogin=false" />  </a>
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib8680&label=Profile%20views&color=0e75b6&style=flat" alt="rakib8680" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rakib8680" target="blank"><img src="https://img.shields.io/twitter/follow/rakib8680?logo=twitter&style=for-the-badge" alt="rakib8680" /></a> </p>
