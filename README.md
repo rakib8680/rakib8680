@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/rakib8680" target="blank"><img src="https://img.shields.io/twitter/follow/rakib8680?logo=twitter&style=for-the-badge" alt="rakib8680" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs, MongoDB, Expressjs**
+- 🌱 Currently learning **Redux, Mongoose, TypeScript**
 
 - 👯 I’m looking to collaborate with **Full Stack developers**
 
@@ -17,11 +17,7 @@
 
 - 📝 I regularly write articles on [https://twitter.com/rakib8680](https://twitter.com/rakib8680)
 
-- 💬 Ask me about **react,crud,tailwind,daisyui**
-
 - 📫 How to reach me **rakib.cst.1st@gmail.com**
-
-- ⚡ Fun fact **I hate math 😐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
