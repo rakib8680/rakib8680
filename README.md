@@ -46,7 +46,7 @@
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 
 
-<p align="center">
+<!--<p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/>
@@ -63,7 +63,8 @@
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png"/>
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png"/>
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/>
-</p>
+</p> -->
+[![My Skills](https://skillicons.dev/icons?i=c,js,ts,html,css,react,nextjs,redux,tailwind,materialui,bootstrap,nodejs,express,graphql,mongodb,postgres,firebase,supabase,prisma,docker,git,github,postman,vercel,netlify,vite,vscode)](https://skillicons.dev)
 
 
 <br>
