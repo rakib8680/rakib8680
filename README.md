@@ -6,8 +6,8 @@
 </br>
 </br>
 
-<div align="left">
-    <a href="https://app.daily.dev/rakib8680"><img align="right" src="https://api.daily.dev/devcards/v2/8Tx6LEBIpTfEQnz2niUqA.png?type=default&r=mfi"  width="300" alt="Abdullah Al Rakib's Dev Card"/></a>
+<div>
+    <a href="https://app.daily.dev/rakib8680"><img align="right" src="https://api.daily.dev/devcards/v2/8Tx6LEBIpTfEQnz2niUqA.png?type=default&r=mfi"  width="250" alt="Abdullah Al Rakib's Dev Card"/></a>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib8680&label=Profile%20views&color=0e75b6&style=flat" alt="rakib8680" /> </p>
 
@@ -73,13 +73,9 @@
 <div class="stats" align="center">
 
 ![Rakib Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib8680&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=rakib8680&count_private=true&theme=algolia&border_radius=20) -->
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib8680&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=rakib8680&count_private=true&theme=algolia&border_radius=20) -->
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->  
 </div>
 
 
