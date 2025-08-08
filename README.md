@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/rakib8680" target="blank"><img src="https://img.shields.io/twitter/follow/rakib8680?logo=twitter&style=for-the-badge" alt="rakib8680" /></a> </p>
 
-- 🌱 Currently learning **AWS, GraphQL, DevOps, Docker, DS, C, Algorithm**
+- 🌱 Currently learning **AWS, GraphQL, DevOps, Docker, DS, C**
 
 - 👯 I’m looking to collaborate with **Full Stack developers**
 
