@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td><a href="https://twitter.com/rakib8680" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td>
+    <!-- <td><a href="https://twitter.com/rakib8680" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td> -->
     <td><a href="https://linkedin.com/in/rakib8680" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
     <td><a href="https://instagram.com/rakib_8680_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></td>
     <td><a href="https://www.youtube.com/c/rakib%20gaming" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a></td>
